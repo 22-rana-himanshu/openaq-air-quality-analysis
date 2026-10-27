@@ -1,34 +1,43 @@
-# openaq-air-quality-analysis
-Air quality data analysis using the OpenAQ API and Python.
 
-# OpenAQ API - Air Quality Analysis
+# 🌍 OpenAQ API — Air Quality Analysis
 
-## About the Project
-This project explores air quality data using the OpenAQ API
-and Python.
+## 📌 About the Project
+This project uses the OpenAQ API to access and explore
+air quality data using Python.
 
-## Objectives
-- Access air quality data through an API.
-- Explore and understand the retrieved data.
-- Identify useful patterns in air quality measurements.
+It demonstrates how API data can be retrieved and analyzed
+to better understand air quality measurements.
 
-## Tools and Technologies
+## 🎯 Project Objectives
+- Connect to an air quality data API.
+- Retrieve and inspect air quality information.
+- Explore the collected data using Python.
+- Understand how APIs can support data analysis.
+
+## 🛠️ Technologies Used
 - Python
-- Jupyter Notebook
 - OpenAQ API
-- Pandas 
-- Data visualization libraries 
+- Jupyter Notebook
 
-## Project File
-- `openaq-air-quality-analysis.ipynb` - Main project notebook.
+## 📂 Project Structure
+- `openaq-air-quality-analysis.ipynb` — Main project notebook.
 
-## How to Run
+## ⚙️ How to Run
 1. Download the notebook from this repository.
-2. Open it using Jupyter Notebook or Google Colab.
-3. Follow the notebook cells in order.
-4. Configure any required API access or dependencies.
+2. Open it in Google Colab or Jupyter Notebook.
+3. Install any required libraries.
+4. Follow the notebook cells in order.
+5. Configure API access if required by the notebook.
 
-## Author
+## 📊 Key Findings
+Add the actual observations and results obtained
+from running this notebook.
+
+## 👨‍💻 Author
 Himanshu Rana
 
-GitHub: [https://github.com/22-rana-himanshu]
+M.Sc. Data Science Student
+
+GitHub:https://github.com/22-rana-himanshu
+
+Kaggle: https://www.kaggle.com/code/himanshurana4106/p01-openaq-api
